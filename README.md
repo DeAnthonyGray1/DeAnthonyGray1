@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Project](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Project](https://github.com/DeAnthonyGray1/Vulnerability-Management-Project)**
 
 ## 🚨 Threat Hunting and Security Operations
 
