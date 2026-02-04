@@ -11,18 +11,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 •	Computer Forensics Coursework
 
 ## EDUCATION
-Associate in Science (A.S.): Cyber Security Candidate 
+Collin College Bachelor of Applied Technology (B.A.T) - Cybersecurity  
+GPA: 3.85
+Collin College Associate in Science (A.S.) - Information Systems Security
 GPA: 3.7
 Awards & Honors
 •	Phi Theta Kappa
 •	Dean's List
-Collin College 
-McKinney • Expected graduation 07/2025
-Bachelor of Science (B.S.): Cyber Security Candidate 
-GPA: 3.85
-Brookhaven College 
-Dallas • 05/2014
-Associate in Arts (A.A.): Business 
 
 # <a href="https://www.linkedin.com/in/deanthony-gray-79b21146/">DeAnthony Gray</a>'s Cybersecurity Project Portfolio 🔐
 
