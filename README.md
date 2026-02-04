@@ -24,7 +24,7 @@ Collin College Associate in Science (A.S.) - Information Systems Security / Awar
 
 - **[Vulnerability Management Project](https://github.com/DeAnthonyGray1/Vulnerability-Management-Project)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations (Pending)
 
 - **[Threat Hunting Project](https://www.google.com/)**
 
