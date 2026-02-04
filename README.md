@@ -12,9 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## EDUCATION
 Collin College Bachelor of Applied Technology (B.A.T) - Cybersecurity - GPA: 3.85 /
-Collin College Associate in Science (A.S.) - Information Systems Security 
-
-Awards & Honors
+Collin College Associate in Science (A.S.) - Information Systems Security / Awards & Honors
 •	Phi Theta Kappa
 •	Dean's List
 
