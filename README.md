@@ -5,7 +5,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 •	CCNA 1,2 and 3 Completion
 •	Linux and Windows
 •	Python Coursework
-•	Trend modeling
 •	OSI/TCPIP Models
 •	Intrusion Detection Coursework
 •	Threat Intelligence
@@ -20,7 +19,7 @@ Awards & Honors
 Collin College 
 McKinney • Expected graduation 07/2025
 Bachelor of Science (B.S.): Cyber Security Candidate 
-GPA: 3.7
+GPA: 3.85
 Brookhaven College 
 Dallas • 05/2014
 Associate in Arts (A.A.): Business 
