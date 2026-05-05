@@ -8,13 +8,17 @@ CCNA 1,2 and 3 Completion
 •	OSI/TCPIP Models
 •	Intrusion Detection Coursework
 •	Threat Intelligence
-•	Computer Forensics Coursework
 
 ## EDUCATION
 Collin College Bachelor of Applied Technology (B.A.T) - Cybersecurity - GPA: 3.85 /
 Collin College Associate in Science (A.S.) - Information Systems Security / Awards & Honors
 •	Phi Theta Kappa
 •	Dean's List
+
+## CERTIFICATIONS
+•	CompTIA Security+
+•	AWS (pending 2026)
+
 
 # <a href="https://www.linkedin.com/in/deanthony-gray-79b21146/">DeAnthony Gray</a> - IT & Cybersecurity Projects Portfolio 🔐
 
