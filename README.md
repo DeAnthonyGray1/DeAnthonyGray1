@@ -16,7 +16,7 @@ Collin College Associate in Science (A.S.) - Information Systems Security / Awar
 •	Phi Theta Kappa
 •	Dean's List
 
-# <a href="https://www.linkedin.com/in/deanthony-gray-79b21146/">DeAnthony Gray</a>'s Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/deanthony-gray-79b21146/">DeAnthony Gray</a> - IT & Cybersecurity Projects Portfolio 🔐
 
 
 
