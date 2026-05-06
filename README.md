@@ -1,5 +1,5 @@
-# ABOUT ME
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+# ABOUT ME - [DEANTHONY GRAY](https://www.linkedin.com/in/deanthony-gray-79b21146/)
+HI! I am a Cybersecurity professional that loves tackling complex challenges through hands-on projects. From vulnerability management to GRC to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 ## SKILLS AND ABILITIES 
 Analytical Experience
@@ -33,9 +33,7 @@ Collin College Associate in Science (A.S.) - Information Systems Security / Awar
 • AWS Cloud Practioner (Pending 2026)
 
 
-# <a href="https://www.linkedin.com/in/deanthony-gray-79b21146/">DeAnthony Gray</a> - IT & Cybersecurity Projects Portfolio 🔐
-
-
+# My IT & Cybersecurity Projects Portfolio 🔐
 
 ## ⚠️ Vulnerability Management Projects
 
