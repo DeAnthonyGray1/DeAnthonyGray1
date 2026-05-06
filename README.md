@@ -26,7 +26,11 @@ Collin College Associate in Science (A.S.) - Information Systems Security / Awar
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Project](https://github.com/DeAnthonyGray1/Vulnerability-Management-Project)**
+- **[Vulnerability Management Assessment](https://github.com/DeAnthonyGray1/Vulnerability-Management-Project)**
+
+## ⚖️ Governance, Risk, and Compliance Projects
+
+- **[GRC Enterprise Risk Assessment](https://github.com/DeAnthonyGray1/GRC-Risk-Assessment-NIST-800-53r5-)**
 
 ## 🚨 Threat Hunting and Security Operations (Pending)
 
