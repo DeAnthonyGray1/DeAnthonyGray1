@@ -1,13 +1,24 @@
 # ABOUT ME
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-## SKILLS AND ABILITIES
-CCNA 1,2 and 3 Completion
-•	Linux and Windows
-•	Python Coursework
+## SKILLS AND ABILITIES 
+Analytical Experience
+•	Virtualization
+•	Networking Concepts
 •	OSI/TCPIP Models
-•	Intrusion Detection Coursework
-•	Threat Intelligence
+•	Compliance Auditing
+•	Risk Management
+•	Vulnerability Assessment w/Tenable.io
+•	Reporting and Documentation
+•	NIST 800-53
+•	Access control
+•	Microsoft Azure
+•	Cybersecurity Governance and Frameworks
+• PCI-DSS, GDPR, HIPPA
+•	Microsoft Excel and Word
+•	Teamwork and collaboration
+•	Excellent verbal communication skills 
+•	Self-starter
 
 ## EDUCATION
 Collin College Bachelor of Applied Technology (B.A.T) - Cybersecurity - GPA: 3.85 /
@@ -16,8 +27,10 @@ Collin College Associate in Science (A.S.) - Information Systems Security / Awar
 •	Dean's List
 
 ## CERTIFICATIONS
-•	CompTIA Security+
-•	AWS (pending 2026)
+•	[CompTIA Security+](https://www.credly.com/badges/563b3af0-4a25-4847-8637-ef41bc197045/public_url)
+•	[CCNA: Enterprise Networking, Security, and Automation](https://www.credly.com/badges/5ec669ec-7fbc-4084-b545-31fb67731294/public_url)
+• [IT Essentials](https://www.credly.com/badges/1fca9502-c3b3-480c-8158-65d300f5e274/public_url)
+• AWS Cloud Practioner (Pending 2026)
 
 
 # <a href="https://www.linkedin.com/in/deanthony-gray-79b21146/">DeAnthony Gray</a> - IT & Cybersecurity Projects Portfolio 🔐
